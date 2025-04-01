@@ -1,10 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "/*",
-      "rewrite": "maint.dev.juruku.ai",
-      "redirect": "/",
-      "statusCode": 307
-    }
-  ]
-}
+{}
