@@ -7,11 +7,7 @@
         "post"
       ],
       "rewrite": "/",
-      "redirect": "maint.dev.juruku.ai",
-      "statusCode": 307,
-      "allowedRoles": [
-        "anonymous"
-      ]
+      "statusCode": 307
     }
   ]
 }
