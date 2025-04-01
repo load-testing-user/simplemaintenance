@@ -6,7 +6,7 @@
         "get",
         "post"
       ],
-      "rewrite": "/",
+      "rewrite": "https://maint.juruku.dev.ai",
       "statusCode": 307
     }
   ]
